@@ -1,0 +1,17 @@
+transaction_id,date,customer_id,merchant,category,amount,payment_method
+TX001,2026-09-01 10:12,C001,Northstar Market,Grocery,1450,UPI
+TX002,2026-09-01 11:24,C002,Tech World,Electronics,4200,Card
+TX003,2026-09-01 12:02,C003,Metro Fuel,Travel,1800,Card
+TX004,2026-09-01 13:47,C001,Northstar Market,Grocery,1290,UPI
+TX005,2026-09-02 09:14,C004,City Pharmacy,Healthcare,780,UPI
+TX006,2026-09-02 09:18,C004,City Pharmacy,Healthcare,790,UPI
+TX007,2026-09-02 21:55,C005,Elite Jewels,Luxury,98500,Card
+TX008,2026-09-03 10:22,C006,Book House,Education,650,Card
+TX009,2026-09-03 10:25,C006,Book House,Education,630,Card
+TX010,2026-09-03 02:14,C007,Quick Transfer,Transfer,45000,Online
+TX011,2026-09-04 14:30,C001,Northstar Market,Grocery,1510,UPI
+TX012,2026-09-04 15:08,C003,Metro Fuel,Travel,1700,Card
+TX013,2026-09-04 15:12,C003,Metro Fuel,Travel,1720,Card
+TX014,2026-09-05 11:18,C008,Home Decor,Home,3200,Card
+TX015,2026-09-05 11:20,C008,Home Decor,Home,3200,Card
+TX016,2026-09-06 23:43,C009,International Transfer,Transfer,125000,Wire
